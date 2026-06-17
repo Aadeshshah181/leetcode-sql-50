@@ -11,3 +11,4 @@ Solved: 1 / 50
 | # | Problem | Difficulty | Pattern |
 |---|---------|------------|---------|
 | 01 | Recyclable and Low Fat Products | Easy | WHERE + AND |
+| 02 | Find Customer Referee | Easy | WHERE + NULL Handling |
