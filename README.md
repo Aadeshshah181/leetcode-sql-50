@@ -14,3 +14,4 @@ Solved: 1 / 50
 | 02 | Find Customer Referee | Easy | WHERE + NULL Handling |
 | 03 | Big Countries | Easy | WHERE + OR + Numeric Comparison |
 | 04 | Article Views I | Easy | DISTINCT + Self-Column Comparison + ORDER BY |
+| 05 | Invalid Tweets | Easy | String Function + WHERE Comparison |
