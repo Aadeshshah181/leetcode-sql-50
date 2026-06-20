@@ -15,3 +15,4 @@ Solved: 1 / 50
 | 03 | Big Countries | Easy | WHERE + OR + Numeric Comparison |
 | 04 | Article Views I | Easy | DISTINCT + Self-Column Comparison + ORDER BY |
 | 05 | Invalid Tweets | Easy | String Function + WHERE Comparison |
+| 06 | Replace Employee ID With Unique Identifier | Easy | LEFT JOIN |
