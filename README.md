@@ -6,7 +6,7 @@ My solutions and notes for the LeetCode Top SQL 50 Study Plan.
 
 ## Progress
 
-Solved: 7 / 50
+Solved: 8 / 50
 
 | # | Problem | Difficulty | Pattern |
 |---|---------|------------|---------|
