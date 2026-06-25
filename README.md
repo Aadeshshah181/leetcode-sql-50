@@ -18,3 +18,4 @@ Solved: 8 / 50
 | 06 | Replace Employee ID With Unique Identifier | Easy | LEFT JOIN |
 | 07 | Product Sales Analysis I | Easy | INNER JOIN |
 | 08 | Customer Who Visited But Did Not Make Any Transactions | Easy | LEFT JOIN + IS NULL + GROUP BY + COUNT |
+| 09 | Rising Temperature | Easy | Self Join + DATEDIFF |
